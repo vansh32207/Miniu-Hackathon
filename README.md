@@ -1,0 +1,2 @@
+# Miniu-Hackathon
+Smart Canteen
